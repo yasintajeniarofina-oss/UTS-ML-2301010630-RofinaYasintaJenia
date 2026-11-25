@@ -18,4 +18,4 @@
 ## Pernyataan Penggunaan AI
 * **Alat AI yang Digunakan:** Gemini (asisten AI percakapan).
 * **Bagian yang Dibantu AI:** Membantu merapikan struktur tahapan CRISP-DM, meninjau alur kode pra-pemrosesan/evaluasi clustering, serta membantu menyusun draf narasi penjelasan dan dokumentasi.
-* **Cara Memeriksa & Memverifikasi Hasil:** Seluruh kode dijalankan dan diperiksa langsung di Google Colab (`Jalankan semua`), output numerik serta visualisasi diverifikasi kesesuaiannya dengan data `retail_sales_dataset.csv`, dan keputusan analitis disesuaikan serta ditinjau kembali sebelum disimpan ke repository GitHub ini.# UTS-ML-2301010630-RofinaYasintaJenia
+* **Cara Memeriksa & Memverifikasi Hasil:** Seluruh kode dijalankan dan diperiksa langsung di Google Colab (`Jalankan semua`), output numerik serta visualisasi diverifikasi kesesuaiannya dengan data `retail_sales_dataset.csv`, dan keputusan analitis disesuaikan serta ditinjau kembali 
